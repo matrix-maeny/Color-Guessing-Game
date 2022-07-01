@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="main_color">#101117</color>
+    <color name="status_bar_color">#0A0A0A</color>
+    <color name="toolbar_color">#262832</color>
+
+
+    <!--- COLOR FOR GAME 20-->
+
+    <color name="YELLOW">#FFF200</color>
+    <color name="MELLOW">#F8DE73</color>
+    <color name="CYBER">#FFD300</color>
+    <color name="ROYAL">#FADA5E</color>
+    <color name="TROMBONE">#D2B55B</color>
+    <color name="BANANA">#FCF4A3</color>
+    <color name="TUSCANY">#FCD12A</color>
+    <color name="LEMON">#EFFD5F</color>
+    <color name="BUMBLEBEE">#FCE205</color>
+    <color name="FLAX">#EEDC82</color>
+    <color name="CREAM">#FFFDD0</color>
+    <color name="PEACH">#FFE5B4</color>
+    <color name="LAGUNA">#F8E473</color>
+    <color name="MUSTARD">#FEDC56</color>
+    <color name="ECRU">#CEB180</color>
+    <color name="CORN">#E4CD05</color>
+    <color name="PINEAPPLE">#FEE12B</color>
+    <color name="FLAXEN">#D5B85A</color>
+    <color name="EGG_NOG">#F9E29C</color>
+    <color name="SEPIA">#E3B778</color>
+
+
+    <!--- COLOR FOR GAME `19`-->
+
+    <color name="ORANGE">#FC6600</color>
+    <color name="GOLD">#F9A602</color>
+    <color name="GOLDENROD">#DBA520</color>
+    <color name="PUMPKIN">#FF7417</color>
+    <color name="FIRE">#FDA50F</color>
+    <color name="OCHRE">#CC7722</color>
+    <color name="AMBER">#FFBF00</color>
+    <color name="DIJON">#C49102</color>
+    <color name="TIGER">#FD6A02</color>
+    <color name="HONEY">#EB9605</color>
+    <color name="CARROT">#EF7215</color>
+    <color name="APRICOT">#EF820D</color>
+    <color name="BRONZE">#B1560F</color>
+    <color name="CIDER">#B3672B</color>
+    <color name="CLAY">#813F0B</color>
+    <color name="RUST">#8B4000</color>
+    <color name="AMBER_2">#883000</color>
+    <color name="SPICE">#793802</color>
+    <color name="BURNT_OR">#964000</color>
+
+
+    <!--- COLOR FOR GAME 20-->
+
+    <color name="RED">#D30000</color>
+    <color name="SALMON">#FA8072</color>
+    <color name="SCARLET">#FF2400</color>
+    <color name="BARN_RED">#7C0A02</color>
+    <color name="IMPERIAL">#ED2939</color>
+    <color name="INDIAN_RED">#CD5C5C</color>
+    <color name="CHILI">#C21807</color>
+    <color name="FIRE_BRICK">#B22222</color>
+    <color name="MAROON">#800000</color>
+    <color name="REDWOOD">#A45A52</color>
+    <color name="RASPBERRY">#D21F3C</color>
+    <color name="CANDY_APPLY">#FF0800</color>
+    <color name="CARMINE">#960019</color>
+    <color name="PERSIAN">#CA3433</color>
+    <color name="U_S_FLAG">#BF0A30</color>
+    <color name="FERRARI">#FF2800</color>
+    <color name="BURGUNDY">#8D021F</color>
+    <color name="CRIMSON">#B80F0A</color>
+    <color name="SANGRIA">#5E1914</color>
+    <color name="MAHOGANY">#420D09</color>
+
+
+    <!--- COLOR FOR GAME 19-->
+
+    <color name="PINK">#FC0FC0</color>
+    <color name="RUBY">#E0115F</color>
+    <color name="ULTRA">#FF6FFF</color>
+    <color name="MAGENTA">#FF0090</color>
+    <color name="ROSE_PINK">#FF66CC</color>
+    <color name="LAVENDER">#FBAED2</color>
+    <color name="CREAMY">#FF6984</color>
+    <color name="FUCHSIA">#FF00FF</color>
+    <color name="FRENCH_ROSE">#F64A8A</color>
+    <color name="CERISE">#DE3163</color>
+    <color name="CARNATION">#FFA6C9</color>
+    <color name="BRICK">#FB607F</color>
+    <color name="AMARANTH">#F19CBB</color>
+    <color name="TAFFY">#F987C5</color>
+    <color name="BUBBLE_GUM">#FE5BAC</color>
+    <color name="HOT_PINK">#F81894</color>
+    <color name="PUNCH">#EC5578</color>
+    <color name="LEMONADE">#FDB9CB</color>
+    <color name="FLAMINGO">#FCA3B7</color>
+
+
+    <!--- COLOR FOR GAME 18-->
+
+    <color name="VIOLET">#B200ED</color>
+    <color name="HIBISCUS">#B43757</color>
+    <color name="MAUVE">#784BB4</color>
+    <color name="MULBERRY">#C64BBC</color>
+    <color name="ORCHID">#AF69EE</color>
+    <color name="LILAC">#B660CD</color>
+    <color name="ELECTRIC">#8F00FF</color>
+    <color name="AFRICAN">#B284BE</color>
+    <color name="GRAPE">#6F2DA8</color>
+    <color name="AMETHYST">#9966CB</color>
+    <color name="BYZANTINE">#702963</color>
+    <color name="FANDANGO">#B5338A</color>
+    <color name="HELIO">#DE73FF</color>
+    <color name="FLORAL">#B47EDE</color>
+    <color name="THISTLE">#D78FDC</color>
+    <color name="LOLLIPOP">#81007F</color>
+    <color name="PLUM">#8D4585</color>
+    <color name="EGGPLANT">#311432</color>
+
+
+    <!--- COLOR FOR GAME 20-->
+
+    <color name="BLUE">#0018F9</color>
+    <color name="DENIM">#131E3A</color>
+    <color name="PIGEON">#7285A5</color>
+    <color name="SKY">#95C8D8</color>
+    <color name="INDEPENDENCE">#4D516D</color>
+    <color name="AIR_FORCE">#598BAF</color>
+    <color name="BABY_BLUE">#89CFEF</color>
+    <color name="NAVY">#000080</color>
+    <color name="STEEL">#4682B4</color>
+    <color name="CAROLINA">#57A0D2</color>
+    <color name="TURKISH">#5097A4</color>
+    <color name="MAYA">#73C2FB</color>
+    <color name="CORNFLOWER">#6693F5</color>
+    <color name="OLYMPIC">#008ECC</color>
+    <color name="SAPPHIRE">#0F52BA</color>
+    <color name="AZURE">#0080FE</color>
+    <color name="EGYPTIAN">#1134A6</color>
+    <color name="YALE">#0E4C92</color>
+    <color name="PRUSSIAN">#003151</color>
+    <color name="SPACE">#1C2951</color>
+
+
+    <!--- COLOR FOR GAME 20-->
+
+    <color name="GREEN">#3BB143</color>
+    <color name="FOREST">#0B6623</color>
+    <color name="SAGE">#9DC183</color>
+    <color name="OLIVE">#708238</color>
+    <color name="LIME">#C7E4A6</color>
+    <color name="HUNTER">#3F904D</color>
+    <color name="JADE">#00A86B</color>
+    <color name="ARTICHOKE">#8F9779</color>
+    <color name="FERN">#4F7942</color>
+    <color name="JUNGLE">#29AB84</color>
+    <color name="LAUREL">#89BA9D</color>
+    <color name="MOSS">#8A9A5B</color>
+    <color name="MINT">#98FB98</color>
+    <color name="PINE">#01796F</color>
+    <color name="TEA">#D0F0C0</color>
+    <color name="ARMY">#4B5320</color>
+    <color name="EMERALD">#50C878</color>
+    <color name="KELLY">#4CBB17</color>
+    <color name="SACRAMENTO">#043927</color>
+    <color name="SEA">#2E8B57</color>
+
+
+    <!--- COLOR FOR GAME 20-->
+
+    <color name="BROWN">#7C4700</color>
+    <color name="CEDAR">#4B3A26</color>
+    <color name="CINNAMON">#622A0F</color>
+    <color name="BRUNETTE">#3A1F06</color>
+    <color name="TAWNY">#7E481C</color>
+    <color name="UMBER">#362312</color>
+    <color name="TORTILLA">#997950</color>
+    <color name="CHOCOLATE">#2B1700</color>
+    <color name="SYRUP">#492000</color>
+    <color name="GINGERBREAD">#5C2C06</color>
+    <color name="CARAMEL">#613613</color>
+    <color name="WALNUT">#43270F</color>
+    <color name="PECAN">#48260D</color>
+    <color name="WOOD">#402F1D</color>
+    <color name="HICKORY">#351E10</color>
+    <color name="ESPRESSO">#4B382A</color>
+    <color name="PEANUT">#795C32</color>
+    <color name="MOCHA">#3B270C</color>
+    <color name="COFFEE">#483619</color>
+    <color name="RUSSET">#7F461B</color>
+
+    <!--- COLOR FOR GAME 19-->
+
+
+    <color name="GRAY">#828282</color>
+    <color name="FOSSIL">#787276</color>
+    <color name="MINK">#88807B</color>
+    <color name="PEARL_RIVER">#D9DDDC</color>
+    <color name="ABALONE">#D6CFC7</color>
+    <color name="HARBOR_GRAY">#C7C6C1</color>
+    <color name="SMOKE">#BEBDB8</color>
+    <color name="THUNDER">#BDB7AB</color>
+    <color name="PEWTER">#999DA0</color>
+    <color name="STONE">#877F7D</color>
+    <color name="IRON">#48494B</color>
+    <color name="RHINO">#B9BBB6</color>
+    <color name="TROUT">#97978F</color>
+    <color name="SEAL">#818380</color>
+    <color name="LAVA">#808588</color>
+    <color name="SHADOW">#363636</color>
+    <color name="ASH">#544C4A</color>
+    <color name="ANCHOR">#3E424B</color>
+    <color name="CHARCOAL">#222021</color>
+    <color name="correct_ans_color">#2A7C6A</color>
+
+
+</resources>

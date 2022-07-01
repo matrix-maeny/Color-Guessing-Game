@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Color Guessing Game</string>
+    <string name="about">About</string>
+    <string name="about_app">Hi, I\'m Matrix.\n\nThis app \'Color Guessing Game\', is a simple game which allows you to guess color names.\n\nIt gives 20 colors for the round, you need to guess the color names.\n\nFor each correct guess, you are rewarded with 5 points.\n\n\nSerial no: 40\nDate of creation: 5 June 2022\nContact us: matrixinventions@gmail.com</string>
+</resources>
